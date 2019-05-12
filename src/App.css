@@ -1,33 +1,99 @@
-.App {
+body{
+  background: black;
+  color:red;
   text-align: center;
+  height:100vh;
+  width:100vw;
+  transition: all 0.8s;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.app-container{
+  background: blue;
+}
+.nav-bar{
+  /* background:green; */
+  display:flex;
+  text-decoration: none;
+  margin-left:10px;
+  flex-wrap: wrap;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.logo-netflix{
+  width:135px;
+  height:65px; 
+  margin:10px;
+}
+
+.link-item, a {
+  margin:12px;
+  color:white;
+  transition: all 0.5s;
+  font-size:18px;
+  margin-top: 15px;
+}
+
+.link-item:hover, a{
+  color:red;
+  text-decoration: none !important;
+  transform: scale(1.3);
+}
+
+.box-card{
+  transition: all 0.7s;
+  margin-top:35px;
+}
+
+.box-card:hover{
+  transform: scale(1.1);
+}
+
+.box-title{
+  overflow: hidden;
+}
+
+.like-logo{
+  width:30px;
+}
+
+.img-movie{
+  width:310px;
+  border-radius:10%;
+  margin-top:15px;
+}
+
+.box-banniere{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
 }
 
-.App-link {
-  color: #61dafb;
+.banniere{
+  width:100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (max-width: 768px) {
+  .nav-bar{
+    display:flex;
+    text-decoration: none;
+    justify-content: space-around;
   }
-  to {
-    transform: rotate(360deg);
+
+  .box-logo-netflix{
+    /* background: green; */
+    width:100%;
   }
+
+  .logo-netflix{
+    width:250px;
+    height:90px; 
+    margin:10px;
+  }
+
+  .link-item, a {
+    margin:12px;
+    color:white;
+    transition: all 0.5s;
+    font-size:15px;
+    margin-top: 15px;
+  }
+
 }
