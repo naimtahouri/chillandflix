@@ -25,3 +25,11 @@
 ![alt](https://github.com/naimtahouri/gif-project/blob/master/chillflix-tablette.gif?raw=true)
 
 ## Projet en construction 
+
+## À venir sur le projet :
+
+### - Fonctionnalité d'ajouts à la liste de favoris
+### - Random de deux films sur la Home 
+### - Amélioration du style, je le rendrais plus fluide
+### - Note des utilisateurs sur chaque carte de films
+### - Ajouts d'un espace pour s'inscrire et se connecter avec un système de tokens
