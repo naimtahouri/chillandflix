@@ -14,7 +14,7 @@
 ##### - VisualCode ou un autre éditeur de code
 ##### - Connaître l'environnement ReactJS
 
-## Aperçue visuel de projet responsive:
+## Aperçu visuel du projet responsive:
 
 ### 🖥 Format desktop :
 
