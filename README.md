@@ -20,5 +20,8 @@
 
 ![alt](https://github.com/naimtahouri/gif-project/blob/master/chill-desktop.gif?raw=true)
 
+### Format tablette : 
+
+![alt](https://github.com/naimtahouri/gif-project/blob/master/chillflix-tablette.gif?raw=true)
 
 ## Projet en construction 
