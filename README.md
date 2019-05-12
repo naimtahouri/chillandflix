@@ -1,5 +1,7 @@
 # Application web developpée en ReactJs via une API (The MovieDB) 
 
+## Inspiration Netflix !
+
 ### Ce projet a pour but de répertorier les films les plus tendances à l'affiche sous formes de différentes sections :
 - Home (Cette section à pour but de random deux films au hasards afin de trouver un film sympa à regarder)
 - Découvrir (Cette section regroupe les films les plus populaires du moments)
@@ -13,5 +15,10 @@
 ##### - Connaître l'environnement ReactJS
 
 ## Aperçue visuel de projet responsive:
+
+### Format desktop :
+
+![alt](https://github.com/naimtahouri/gif-project/blob/master/chill-desktop.gif?raw=true)
+
 
 ## Projet en construction 
