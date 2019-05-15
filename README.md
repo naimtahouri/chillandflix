@@ -26,11 +26,11 @@
 
 ## Projet en construction 
 
-## 📚À venir sur le projet :
+### 📚À venir sur le projet :
 
-### - Fonctionnalité d'ajouts à la liste de favoris
-### - Random de deux films tendances sur la Home 
-### - Select option qui proposeras un filtre par "Nom", "Année" ou "genre"
-### - Amélioration du style, je le rendrais plus fluide
-### - Notes en pourcentages des utilisateurs sur chaque carte de films
-### - Ajouts d'un espace pour s'inscrire et se connecter avec un système de tokens
+#### - Fonctionnalité d'ajouts à la liste de favoris
+#### - Random de deux films tendances sur la Home 
+#### - Select option qui proposeras un filtre par "Nom", "Année" ou "genre"
+#### - Amélioration du style, je le rendrais plus fluide
+#### - Notes en pourcentages des utilisateurs sur chaque carte de films
+#### - Ajouts d'un espace pour s'inscrire et se connecter avec un système de tokens
